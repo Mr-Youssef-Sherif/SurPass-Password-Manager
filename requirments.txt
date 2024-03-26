@@ -1,0 +1,7 @@
+tkinter
+pandas
+numpy
+pyperclip
+hashlib
+cryptography
+pillow
