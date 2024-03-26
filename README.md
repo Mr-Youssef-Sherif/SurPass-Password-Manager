@@ -29,7 +29,6 @@ Run the application:
 
 Copy code
 python app.py
-Access SurPass Password Manager through your web browser at http://localhost:5000.
 
 ## Contributing:
 
