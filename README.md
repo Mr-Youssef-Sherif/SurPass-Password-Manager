@@ -30,6 +30,13 @@ Run the application:
 Copy code
 python app.py
 
+## Use it as an exe
+
+First, you'll need to install a compiling lib pip install pyinstaller.
+Then run this command in the dir that contains the app files
+- pyinstaller --onefile -w app.py
+After getting the dist which contains the exe, add the assets folder in the same dir as the exe.
+
 ## Contributing:
 
 Contributions to SurPass Password Manager are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.
