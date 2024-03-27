@@ -49,9 +49,6 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 
 For any inquiries or assistance, you can reach out to the author, Youssef Sherif, via email at mister.youssef.sherif@gmail.com.
 
-## Acknowledgments:
-
-Special thanks to the contributors and users who have helped improve SurPass Password Manager.
 
 ## Disclaimer:
 
