@@ -19,22 +19,31 @@ To use SurPass Password Manager, follow these steps:
 Clone the repository from GitHub:
 
 bash
-Copy code
-git clone https://github.com/Mr-Youssef-Sherif/SurPass-Password-Manager.git
+
+`git clone https://github.com/Mr-Youssef-Sherif/SurPass-Password-Manager.git`
+
 Install the necessary dependencies:
 
-Copy code
-pip install -r requirements.txt
+Copy code:
+
+`pip install -r requirements.txt`
+
 Run the application:
 
-Copy code
-python app.py
+Copy code:
+
+`python app.py`
 
 ## Use it as an exe
 
 First, you'll need to install a compiling lib pip install pyinstaller.
+
+`pip install pyinstaller`
+
 Then run this command in the dir that contains the app files
-- pyinstaller --onefile -w app.py
+
+` pyinstaller --onefile -w app.py`
+
 After getting the dist which contains the exe, add the assets folder in the same dir as the exe.
 
 ## Contributing:
